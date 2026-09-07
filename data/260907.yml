@@ -5,7 +5,7 @@ about:
   head: 161d07a
   archived: false
   latestVersion: "v0.9.5"
-  collectedAt: 2026-09-07T05:33:23Z
+  collectedAt: 2026-09-07T19:03:21Z
 timeline:
   created: 2020-10-16
   lastCommit: 2026-08-27
@@ -82,7 +82,7 @@ total:
   commit: 372
 ---
 path: /home/runner/.x-repo/github.com/tilt-dev/ctlptl
-collectedAt: 2026-09-07T05:33:25Z
+collectedAt: 2026-09-07T19:03:22Z
 loc:
   Go:
     code: 8502
@@ -218,7 +218,7 @@ checks:
       - 'Info:   0 out of   6 containerImage dependencies pinned'
 ---
 eget:
-  collectedAt: 2026-09-07T05:33:26+00:00
+  collectedAt: 2026-09-07T19:03:24+00:00
   platform:
     darwin/arm64:
       name:  ctlptl.0.9.5.mac.arm64.tar.gz
