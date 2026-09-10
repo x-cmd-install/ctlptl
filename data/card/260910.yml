@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.9.6"
   latestRelease: "v0.9.6"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T21:25:47Z
+  collectedAt: 2026-09-10T22:25:10Z
 timeline:
   created: 2020-10-16
   lastCommit: 2026-09-10
@@ -86,7 +86,7 @@ total:
   commit: 377
 ---
 path: /home/runner/.x-repo/github.com/tilt-dev/ctlptl
-collectedAt: 2026-09-10T21:25:48Z
+collectedAt: 2026-09-10T22:25:11Z
 loc:
   Go:
     code: 8526
