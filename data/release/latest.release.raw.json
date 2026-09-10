@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 488,
       "digest": "sha256:c9c81c4de5e1245092b22daeaf2cae27a6642b0df9602802c9e4ff064a55b335",
-      "download_count": 14,
+      "download_count": 25,
       "created_at": "2026-09-10T03:06:34Z",
       "updated_at": "2026-09-10T03:06:34Z",
       "browser_download_url": "https://github.com/tilt-dev/ctlptl/releases/download/v0.9.6/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 15216088,
       "digest": "sha256:6817485bee0be90889d5acf56920dcc890d8fbec31477f7a97353e08b86db8ac",
-      "download_count": 7,
+      "download_count": 61,
       "created_at": "2026-09-10T03:06:31Z",
       "updated_at": "2026-09-10T03:06:32Z",
       "browser_download_url": "https://github.com/tilt-dev/ctlptl/releases/download/v0.9.6/ctlptl.0.9.6.linux.arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 17025905,
       "digest": "sha256:a83ad620d04a526fd4186adfab9e757e8d59b9becf9b1244a9416dfaabec610f",
-      "download_count": 73,
+      "download_count": 92,
       "created_at": "2026-09-10T03:06:31Z",
       "updated_at": "2026-09-10T03:06:32Z",
       "browser_download_url": "https://github.com/tilt-dev/ctlptl/releases/download/v0.9.6/ctlptl.0.9.6.linux.x86_64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 16005614,
       "digest": "sha256:6ef761e27f68e002279054a4f9536887ccb94b118faee7bcf41bc905691ed2a3",
-      "download_count": 58,
+      "download_count": 73,
       "created_at": "2026-09-10T03:06:34Z",
       "updated_at": "2026-09-10T03:06:34Z",
       "browser_download_url": "https://github.com/tilt-dev/ctlptl/releases/download/v0.9.6/ctlptl.0.9.6.mac.arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 17388733,
       "digest": "sha256:3b0eee55ab60add887e44dcbd241594b61552cff89ea04cce7ee40e1fc586515",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-10T03:06:32Z",
       "updated_at": "2026-09-10T03:06:33Z",
       "browser_download_url": "https://github.com/tilt-dev/ctlptl/releases/download/v0.9.6/ctlptl.0.9.6.mac.x86_64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 17581895,
       "digest": "sha256:de70f0a6eaf0b3b1e02f4b4fff6980ccc03631ee300ee9f5dd137fa4d3e49fe6",
-      "download_count": 10,
+      "download_count": 12,
       "created_at": "2026-09-10T03:06:32Z",
       "updated_at": "2026-09-10T03:06:33Z",
       "browser_download_url": "https://github.com/tilt-dev/ctlptl/releases/download/v0.9.6/ctlptl.0.9.6.windows.x86_64.zip"
