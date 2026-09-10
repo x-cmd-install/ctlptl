@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.9.6"
   latestRelease: "v0.9.6"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:45:07Z
+  collectedAt: 2026-09-10T17:31:55Z
 timeline:
   created: 2020-10-16
   lastCommit: 2026-09-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-10
   lastPrerelease: 
 popularity:
-  star: 721
+  star: 722
   watcher: 6
   fork: 48
   release: 83
@@ -86,7 +86,7 @@ total:
   commit: 377
 ---
 path: /home/runner/.x-repo/github.com/tilt-dev/ctlptl
-collectedAt: 2026-09-10T05:45:08Z
+collectedAt: 2026-09-10T17:31:56Z
 loc:
   Go:
     code: 8526
