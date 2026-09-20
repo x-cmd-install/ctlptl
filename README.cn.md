@@ -4,7 +4,7 @@
 
 Making local Kubernetes clusters fun and easy to set up
 
-![ctlptl](https://repo.x-cmd.io/ctlptl.svg?lang=zh)
+[![x-cmd/install — ctlptl Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ctlptl.svg?lang=zh)](https://x-cmd.com/install/ctlptl)
 
 ## 安装
 
@@ -42,27 +42,27 @@ x install ctlptl
 ## 发布
 
 - **最新版本**: `v0.9.6` (2026-09-10)
-- **最近提交**: 2026-09-10
+- **最近提交**: 2026-09-18
 - **Release 含资产**: 6 个
 
 ## 流行度
 
-- **Star**: 722 · **Fork**: 48 · **开放 issue**: 104 · **贡献者**: 28
+- **Star**: 723 · **Fork**: 48 · **开放 issue**: 104 · **贡献者**: 28
 
 ## 累计统计
 
-- **发布数**: 83 · **已合并 PR**: 304 · **开放 PR**: 3 · **已关闭 issue**: 92 · **开放 issue**: 12 · **提交数**: 377
+- **发布数**: 83 · **已合并 PR**: 305 · **开放 PR**: 0 · **已关闭 issue**: 92 · **开放 issue**: 12 · **提交数**: 378
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 7 | 3 | 1 | 0 | 9 |
-| last60d | 2026-07-20 | 2 | 8 | 3 | 1 | 0 | 10 |
-| 90d | 2026-06-20 | 2 | 9 | 3 | 1 | 0 | 12 |
-| last180d | 2026-03-22 | 6 | 19 | 3 | 7 | 1 | 25 |
-| 360d | 2025-09-23 | 8 | 27 | 3 | 7 | 1 | 35 |
-| last720d | 2024-09-28 | 17 | 49 | 3 | 15 | 1 | 66 |
+| 30d | 2026-08-21 | 2 | 8 | 0 | 1 | 0 | 6 |
+| last60d | 2026-07-22 | 2 | 9 | 0 | 1 | 0 | 10 |
+| 90d | 2026-06-22 | 2 | 10 | 0 | 1 | 0 | 13 |
+| last180d | 2026-03-24 | 6 | 20 | 0 | 7 | 1 | 26 |
+| 360d | 2025-09-25 | 8 | 28 | 0 | 7 | 1 | 36 |
+| last720d | 2024-09-30 | 17 | 50 | 0 | 15 | 1 | 67 |
 
 ## Release 资产
 
@@ -84,4 +84,4 @@ ctlptl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:59:19Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:56:35Z._

@@ -4,7 +4,7 @@
 
 Making local Kubernetes clusters fun and easy to set up
 
-![ctlptl](https://repo.x-cmd.io/ctlptl.svg)
+[![x-cmd/install — ctlptl Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ctlptl.svg)](https://x-cmd.com/install/ctlptl)
 
 ## Install
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.9.6` (2026-09-10)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-09-18
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 722 · **Forks**: 48 · **Open issues**: 104 · **Contributors**: 28
+- **Stars**: 723 · **Forks**: 48 · **Open issues**: 104 · **Contributors**: 28
 
 ## Totals (cumulative)
 
-- **Releases**: 83 · **Merged PRs**: 304 · **Open PRs**: 3 · **Closed issues**: 92 · **Open issues**: 12 · **Commits**: 377
+- **Releases**: 83 · **Merged PRs**: 305 · **Open PRs**: 0 · **Closed issues**: 92 · **Open issues**: 12 · **Commits**: 378
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 7 | 3 | 1 | 0 | 9 |
-| last60d | 2026-07-20 | 2 | 8 | 3 | 1 | 0 | 10 |
-| 90d | 2026-06-20 | 2 | 9 | 3 | 1 | 0 | 12 |
-| last180d | 2026-03-22 | 6 | 19 | 3 | 7 | 1 | 25 |
-| 360d | 2025-09-23 | 8 | 27 | 3 | 7 | 1 | 35 |
-| last720d | 2024-09-28 | 17 | 49 | 3 | 15 | 1 | 66 |
+| 30d | 2026-08-21 | 2 | 8 | 0 | 1 | 0 | 6 |
+| last60d | 2026-07-22 | 2 | 9 | 0 | 1 | 0 | 10 |
+| 90d | 2026-06-22 | 2 | 10 | 0 | 1 | 0 | 13 |
+| last180d | 2026-03-24 | 6 | 20 | 0 | 7 | 1 | 26 |
+| 360d | 2025-09-25 | 8 | 28 | 0 | 7 | 1 | 36 |
+| last720d | 2024-09-30 | 17 | 50 | 0 | 15 | 1 | 67 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for ctlptl lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:59:18Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:56:34Z._
