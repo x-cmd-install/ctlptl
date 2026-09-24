@@ -30,9 +30,9 @@ x install ctlptl
 
 评分最低的几项:
 
-- **Dangerous-Workflow** (-1/10) — no workflows found
-- **Code-Review** (3/10) — Found 7/22 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (3/10) — Found 7/21 approved changesets -- score normalized to 3
+- **Dangerous-Workflow** (-1/10) — no workflows found
 
 ## 源代码
 
@@ -57,12 +57,12 @@ x install ctlptl
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 2 | 8 | 0 | 1 | 0 | 6 |
-| last60d | 2026-07-25 | 2 | 8 | 0 | 1 | 0 | 10 |
-| 90d | 2026-06-25 | 2 | 10 | 0 | 1 | 0 | 13 |
-| last180d | 2026-03-27 | 6 | 20 | 0 | 7 | 1 | 26 |
-| 360d | 2025-09-28 | 8 | 28 | 0 | 7 | 1 | 36 |
-| last720d | 2024-10-03 | 17 | 50 | 0 | 15 | 1 | 67 |
+| 30d | 2026-08-25 | 2 | 8 | 0 | 1 | 0 | 6 |
+| last60d | 2026-07-26 | 2 | 8 | 0 | 1 | 0 | 10 |
+| 90d | 2026-06-26 | 2 | 10 | 0 | 1 | 0 | 13 |
+| last180d | 2026-03-28 | 6 | 20 | 0 | 7 | 1 | 26 |
+| 360d | 2025-09-29 | 8 | 28 | 0 | 7 | 1 | 36 |
+| last720d | 2024-10-04 | 17 | 50 | 0 | 15 | 1 | 67 |
 
 ## Release 资产
 
@@ -84,4 +84,4 @@ ctlptl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260923.yml` · 2026-09-23T06:06:17Z._
+_数据快照: `data/card/260924.yml` · 2026-09-24T05:26:39Z._
