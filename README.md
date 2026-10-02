@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 730 · **Forks**: 48 · **Open issues**: 104 · **Contributors**: 28
+- **Stars**: 731 · **Forks**: 48 · **Open issues**: 104 · **Contributors**: 28
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 1 | 5 | 0 | 1 | 0 | 6 |
-| last60d | 2026-08-02 | 2 | 8 | 0 | 1 | 0 | 10 |
-| 90d | 2026-07-03 | 2 | 9 | 0 | 1 | 0 | 13 |
-| last180d | 2026-04-04 | 4 | 17 | 0 | 7 | 1 | 21 |
-| 360d | 2025-10-06 | 8 | 28 | 0 | 7 | 1 | 36 |
-| last720d | 2024-10-11 | 17 | 50 | 0 | 15 | 1 | 67 |
+| 30d | 2026-09-02 | 1 | 4 | 0 | 1 | 0 | 6 |
+| last60d | 2026-08-03 | 2 | 8 | 0 | 1 | 0 | 10 |
+| 90d | 2026-07-04 | 2 | 9 | 0 | 1 | 0 | 13 |
+| last180d | 2026-04-05 | 4 | 17 | 0 | 7 | 1 | 21 |
+| 360d | 2025-10-07 | 8 | 28 | 0 | 7 | 1 | 36 |
+| last720d | 2024-10-12 | 17 | 50 | 0 | 15 | 1 | 67 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for ctlptl lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T06:35:54Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T06:26:47Z._
