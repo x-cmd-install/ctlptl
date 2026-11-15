@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-09-15 | 0 | 2 | 0 | 0 | 0 | 2 |
-| 90d | 2026-08-16 | 2 | 9 | 0 | 1 | 0 | 11 |
-| last180d | 2026-05-18 | 3 | 13 | 0 | 4 | 0 | 16 |
-| 360d | 2025-11-19 | 8 | 29 | 0 | 7 | 1 | 37 |
-| last720d | 2024-11-24 | 15 | 45 | 0 | 15 | 1 | 61 |
+| 30d | 2026-10-16 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-16 | 0 | 2 | 0 | 0 | 0 | 1 |
+| 90d | 2026-08-17 | 2 | 9 | 0 | 1 | 0 | 11 |
+| last180d | 2026-05-19 | 3 | 13 | 0 | 3 | 0 | 16 |
+| 360d | 2025-11-20 | 8 | 29 | 0 | 7 | 1 | 37 |
+| last720d | 2024-11-25 | 15 | 45 | 0 | 14 | 1 | 61 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for ctlptl lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T07:40:15Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:26:09Z._
