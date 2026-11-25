@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-09-25 | 0 | 1 | 0 | 0 | 0 | 1 |
-| 90d | 2026-08-26 | 2 | 9 | 0 | 1 | 0 | 7 |
-| last180d | 2026-05-28 | 3 | 13 | 0 | 3 | 0 | 16 |
-| 360d | 2025-11-29 | 8 | 29 | 0 | 7 | 1 | 37 |
-| last720d | 2024-12-04 | 15 | 44 | 0 | 14 | 1 | 60 |
+| 30d | 2026-10-26 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-26 | 0 | 1 | 0 | 0 | 0 | 1 |
+| 90d | 2026-08-27 | 2 | 6 | 0 | 1 | 0 | 7 |
+| last180d | 2026-05-29 | 3 | 12 | 0 | 2 | 0 | 16 |
+| 360d | 2025-11-30 | 8 | 29 | 0 | 7 | 1 | 37 |
+| last720d | 2024-12-05 | 15 | 44 | 0 | 14 | 1 | 60 |
 
 ## Release assets
 
@@ -75,16 +75,6 @@ Lowest-scoring checks:
 | [ctlptl.0.9.6.mac.x86_64.tar.gz](https://github.com/tilt-dev/ctlptl/releases/download/v0.9.6/ctlptl.0.9.6.mac.x86_64.tar.gz) | 16.6 MiB | `native/linux/x64` |
 | [ctlptl.0.9.6.windows.x86_64.zip](https://github.com/tilt-dev/ctlptl/releases/download/v0.9.6/ctlptl.0.9.6.windows.x86_64.zip) | 16.8 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **10** distros on [repology.org](https://repology.org/project/ctlptl). **3** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.9.6` | ✅ latest |
-| Nix unstable | `0.9.6` | ✅ latest |
-| openSUSE Tumbleweed | `0.9.6` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for ctlptl lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `ctlptl` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -94,4 +84,4 @@ Install metadata for ctlptl lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:06:59Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:56:25Z._

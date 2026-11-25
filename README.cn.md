@@ -57,12 +57,12 @@ x install ctlptl
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-09-25 | 0 | 1 | 0 | 0 | 0 | 1 |
-| 90d | 2026-08-26 | 2 | 9 | 0 | 1 | 0 | 7 |
-| last180d | 2026-05-28 | 3 | 13 | 0 | 3 | 0 | 16 |
-| 360d | 2025-11-29 | 8 | 29 | 0 | 7 | 1 | 37 |
-| last720d | 2024-12-04 | 15 | 44 | 0 | 14 | 1 | 60 |
+| 30d | 2026-10-26 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-26 | 0 | 1 | 0 | 0 | 0 | 1 |
+| 90d | 2026-08-27 | 2 | 6 | 0 | 1 | 0 | 7 |
+| last180d | 2026-05-29 | 3 | 12 | 0 | 2 | 0 | 16 |
+| 360d | 2025-11-30 | 8 | 29 | 0 | 7 | 1 | 37 |
+| last720d | 2024-12-05 | 15 | 44 | 0 | 14 | 1 | 60 |
 
 ## Release 资产
 
@@ -75,16 +75,6 @@ x install ctlptl
 | [ctlptl.0.9.6.mac.x86_64.tar.gz](https://github.com/tilt-dev/ctlptl/releases/download/v0.9.6/ctlptl.0.9.6.mac.x86_64.tar.gz) | 16.6 MiB | `native/linux/x64` |
 | [ctlptl.0.9.6.windows.x86_64.zip](https://github.com/tilt-dev/ctlptl/releases/download/v0.9.6/ctlptl.0.9.6.windows.x86_64.zip) | 16.8 MiB | `native/win/x64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/ctlptl) 上共有 **10** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**6** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `0.9.6` | ✅ latest |
-| Nix unstable | `0.9.6` | ✅ latest |
-| openSUSE Tumbleweed | `0.9.6` | ✅ latest |
-
 ## 改进这些数据
 
 ctlptl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `ctlptl` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -94,4 +84,4 @@ ctlptl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T11:06:59Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T09:56:26Z._
